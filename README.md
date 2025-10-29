@@ -6,7 +6,7 @@ Complete Terraform Crash Course in Kannada — from basics to modules, workspace
 This repository contains all the code examples and demo files used in my **Terraform Crash Course (in Kannada)**.  
 We cover Terraform from the very basics — all the way to reusable modules, workspaces, and AWS automation.
 
-🎥 **YouTube Video:** [Terraform Crash Course in Kannada](#)  
+🎥 **YouTube Video:** [](#)  
 📦 **GitHub Repository:** [Terraform_Crash_Course_Kannada](https://github.com/iamkeerthik/Terraform_Crash_Course_Kannada)
 
 ---
